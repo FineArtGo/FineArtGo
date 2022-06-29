@@ -1,25 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&&fontSize=40)
 
-<h1 align="center">Hi, I'm Min Soo 👋🏻 </h1>
-<h2 align="center">A creative Front-end Developer from Seoul</h2>
-<br />
 
-<span align="center">
+<div align="center">
   
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
-![](https://img.shields.io/badge/React-60DAFB?style=flat-square)
-![](https://img.shields.io/badge/HTML5&CSS3-764ABC?style=flat-square)
-![](https://img.shields.io/badge/StyledComponents-E97A7D?style=flat-square)
-![](https://img.shields.io/badge/Node.js-3C873A?style=flat-square)
-![](https://img.shields.io/badge/Mysql-00758F?style=flat-square)
-![](https://img.shields.io/badge/AWS-F29111?style=flat-square)
-![](https://img.shields.io/badge/Zustand-007ACC?style=flat-square)
-
-</span>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ### 🐣 Hi I'm MinSoo 🐥 
+  <h2 align="center">A creative Front-end Developer from Seoul</h2>
 <br />
+  ---
+  
+  <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+ 
+  <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
-- 💡  My Daily <a href="https://kkomalime.tistory.com/">Dev blog</a>
-- 🌱  Currently learning all the best practices of <b>JavaScript, React</b> and <b>CSS3</b>
-- 🙉  Former overseas sales rep. Have lived in 🇳🇱 🇩🇪 🇺🇸 🇦🇺. Love hiking and handcrafting
-- 📩  Send me an <a href="mailto:dearmin27@gmail.com">Email</a> for any enquiries!
-<br />
+  <br>
+ 
+</div>
